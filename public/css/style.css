@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+h1, h2, h3, h4, h5, h6, p, label, li {
+    color: white;
+}
+
+hr {
+    background-color: dodgerblue;
+    height: 50%;
+}
+
+.contactform{
+    border: solid;
+    border-color: white;
+}
+
+.contactleft{
+    padding-right: 10px;
+}
+
+.contactright{
+    padding-left: 10px;
+}
+
+.card{
+    background-color: dodgerblue;
+    margin: 10px;
+}
+
+.card-img top{
+    border-radius: 10%;
+}
+
+.educationp {
+    color: green;
+}
